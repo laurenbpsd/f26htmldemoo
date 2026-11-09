@@ -5,12 +5,8 @@ h1, h2{
 body{
     background-image: radial-gradient(circle, #154734, #051D00);
 }
-@font-face{
-    font-family: 'MyCustomFont';
-    src: url('fonts/BowlbyOneSC-Regular.ttf') format('truetype');
-}
 h1, h2{
-    font-family: 'MyCustomFont', sans-serif;
+    
 }
 h3{
     color: #DDCBA4; font-family: Helvetica, sans-serif; font-weight: lighter;
