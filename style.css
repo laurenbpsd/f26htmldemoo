@@ -1,7 +1,10 @@
 /* your styles will go here!! */
 h1, h2{
-    color: #E7E8B2; cream
+    color: #DDCBA4; cream
 }
 body{
-    background-color: #051D00; dark green
+    background-color: #154734; dark green
+}
+h1, h2{
+    font-family: Bebas Neue, sans-serif; font-weight: normal; 
 }
