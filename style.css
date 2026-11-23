@@ -51,6 +51,7 @@ h3, h4{
 nav a{
    color: #ddcba4; font-family: 'Oswald'; font-style: normal; font-weight: 400;
 }
+
 main{
     display: flex;
     flex-direction: column;
@@ -76,4 +77,21 @@ h1, h2, h3, h4{
     gap: 20px;
     justify-content: center;
     align-items: center;
+}
+nav a:hover{
+    color: #FFFFFF;
+  text-decoration: underline;
+  transition: color 0.8s ease;
+}
+.newstxt a{
+    color: #ffffff; font-family: 'Oswald'; font-style: normal; font-weight: 400;
+}
+.newstxt a:hover{
+    color: #ddcba4;
+  text-decoration: underline;
+  transition: color 0.5s ease;
+}
+.newstxt h3:hover{
+    color: #EAAA00;
+    transition: color 0.5s ease;
 }
